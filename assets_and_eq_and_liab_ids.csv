@@ -1,0 +1,56 @@
+;type;id;name
+0;asset;0;Property, plant and equipment
+1;asset;1;Exploration for and evaluation of mineral resources
+2;asset;2;Intangible assets
+3;asset;3;Goodwill
+4;asset;4;Investment property
+5;asset;5;Investment in affiliates
+6;asset;6;Non-current financial assets
+7;asset;7;Non-current loans and receivables
+8;asset;8;Deferred income tax
+9;asset;9;Non-current deferred charges and accruals
+10;asset;10;Non-current derivative instruments
+11;asset;11;Other non-current assets
+12;asset;12;Inventories
+13;asset;13;Current intangible assets
+14;asset;14;Biological assets
+15;asset;15;Trade receivables
+16;asset;16;Loans and other receivables
+17;asset;17;Financial assets
+18;asset;18;Cash and cash equivalents
+19;asset;19;Accruals
+20;asset;20;Assets from current tax
+21;asset;21;Derivative instruments
+22;asset;22;Other assets
+23;asset;23;Assets held for sale and discontinuing operations
+24;asset;24;Called up capital
+25;asset;25;Own shares
+26;eq_and_liab;0;Share capital
+27;eq_and_liab;1;Called up share capital
+28;eq_and_liab;2;Treasury shares
+29;eq_and_liab;3;Supplementary capital
+30;eq_and_liab;4;Valuation and exchange differences
+31;eq_and_liab;5;Other capitals
+32;eq_and_liab;6;Retained earnings / accumulated losses
+33;eq_and_liab;7;Non-controlling interests
+34;eq_and_liab;8;Non-current liabilities from derivatives
+35;eq_and_liab;9;Non-current loans and borrowings
+36;eq_and_liab;10;Non-current liabilities from bonds
+37;eq_and_liab;11;Non-current liabilities from finance leases
+38;eq_and_liab;12;Non-current trade payables
+39;eq_and_liab;13;Long-term provision for employee benefits
+40;eq_and_liab;14;Deferred tax liabilities
+41;eq_and_liab;15;Non-current provision
+42;eq_and_liab;16;Other non-current liabilities
+43;eq_and_liab;17;Non-current accruals (liability)
+44;eq_and_liab;18;Liabilities from derivatives
+45;eq_and_liab;19;Financial liabilities (loans and borrowings)
+46;eq_and_liab;20;Bond liabilities
+47;eq_and_liab;21;Liabilities from finance leases
+48;eq_and_liab;22;Trade payables
+49;eq_and_liab;23;Employee benefits
+50;eq_and_liab;24;Current tax liabilities
+51;eq_and_liab;25;Provisions
+52;eq_and_liab;26;Other liabilities
+53;eq_and_liab;27;Accruals (liability)
+54;eq_and_liab;28;Liabilities related to assets held for sale and discontinued operations
